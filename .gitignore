@@ -1,0 +1,10 @@
+__pycache__/
+build/
+dist/
+*.spec
+*.xlsx
+*.xlsm
+*.csv
+*.png
+*.txt
+``
